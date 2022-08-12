@@ -1,37 +1,117 @@
-## Welcome to GitHub Pages
+Insta KopaCredits built the Insta Kopaloans app as a Free app. This SERVICE is provided by Jahazi  credits at no cost and is intended for use as is.
 
-You can use the [editor on GitHub](https://github.com/hraezlyr25/libertyfintech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-### Markdown
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Insta Kopa unless otherwise defined in this Privacy Policy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Insta KopaRates and Fees:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+* Loan Amount: KES 500 - KES 60,000
 
-1. Numbered
-2. List
+* Loan Term: the shortest tenor is 91 days, the longest is 365 days
 
-**Bold** and _Italic_ and `Code` text
+* Interest rate: 1.3% per month, 16% per year
 
-[Link](url) and ![Image](src)
-```
+* Service Fee: 0
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hraezlyr25/libertyfintech/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Example 1,
 
-### Support or Contact
+For a loan to be repaid in 365 days :
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Loan Amount = KES 16,000
+
+Loan Tenure = 365 days
+
+Annual Interest Rate = 16%
+
+Total Interest= KES 2560
+
+Service Fee= 0
+
+Total Amount= KES 18,560
+
+
+
+Example 2,
+
+For loans of kSH 4,000 with a term during 91 days, the fees charged are as follows:
+
+Monthly interest rate ： 16% / 12 = 1.3%
+
+Monthly interest ： ksh 4,000 * 1.3% = ksh52
+
+Total monthly payment ：ksh4,000 / 3 + ksh 52 = ksh1385.33
+
+total repayment bill including principle and interest shall be:
+
+ksh 4,000.00 +(ksh4,000* 1.3%*3)= ksh 4155.99
+
+(NOTE: These numbers are just a representation for calculating the rate of interest)
+
+
+
+Information Collection and Use
+
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Contacts, email, phone number, Address . The information that I request will be retained on your device and is not collected by me in any way.
+
+The app does use third party services that may collect information used to identify you.
+
+Link to privacy policy of third party service providers used by the app
+
+Google Play Services
+
+Google Analytics for Firebase
+
+Facebook
+
+Log Data
+
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+
+Cookies
+
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+
+Service Providers
+
+I may employ third-party companies and individuals due to the following reasons:
+
+To facilitate our Service;
+
+To provide the Service on our behalf;
+
+To perform Service-related services; or
+
+To assist us in analyzing how our Service is used.
+
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+Security
+
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+Children’s Privacy
+
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+
+Changes to This Privacy Policy
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of 2021-11-08
+
+Contact Us
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact us at jahazicreditsinfo@gmail.com.
